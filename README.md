@@ -26,6 +26,7 @@ Prerequisites:
 3. Terraform Installed
    - Download Terraform from https://terraform.io/downloads
    - Verify with: terraform -v
+     
      ![image](https://github.com/user-attachments/assets/5ddb44a5-ab24-46b9-99ff-43e505f53346)
 
 4. IAM User with Sufficient Permissions
