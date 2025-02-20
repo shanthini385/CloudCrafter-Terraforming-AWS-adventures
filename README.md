@@ -108,6 +108,5 @@ Additional Notes:
 - Adjust CIDR blocks, instance types, and AMI IDs as needed for your environment.
 - For production environments, use more secure IAM policies and limit access as needed.
 
-=====================================================================
 End of Guide
-=====================================================================
+============
